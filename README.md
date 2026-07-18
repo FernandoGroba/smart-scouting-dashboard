@@ -92,7 +92,7 @@ El archivo `scouting.pbix` contiene un dashboard interactivo con:
 ## Autor
 
 **Fernando Groba**
-Técnico en Programación / Técnico en Producción de TV
+Técnico en Programación / Técnico en Producción y Dirección de TV
 
 Analisis realizado como parte de formacion en **Scouting y Analisis de Datos de Futbol**.
 
