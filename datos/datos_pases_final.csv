@@ -1,0 +1,22 @@
+id,period,timestamp,minute,second,team,player,pass_recipient,pass_length,pass_angle,pass_outcome
+f651a6c4-55e3-4e0f-a178-59414ba83d6a,1,00:00:00.578,0,0,France,Antoine Griezmann,Aurélien Djani Tchouaméni,13.364505,2.907503,Completado
+a5956ecc-d637-44d2-8705-e2079e12013e,1,00:00:02.724,0,2,France,Aurélien Djani Tchouaméni,Olivier Giroud,62.37732,-0.7343642,Out
+5ba6dfab-49f0-4225-bbb6-8b1e27bc729a,1,00:00:16.423,0,16,Argentina,Nahuel Molina Lucero,Rodrigo Javier De Paul,14.139661,-0.3463541,Completado
+27829865-a43c-4c50-b545-b09e8a965e16,1,00:00:31.843,0,31,Argentina,Rodrigo Javier De Paul,Cristian Gabriel Romero,21.062288,-2.5865161,Completado
+59420b0c-94cc-4fb8-86fb-e11059366eb,1,00:00:34.727,0,34,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,27.387589,-1.6879051,Completado
+71cb648d-11fe-4275-b838-cbcfc62bee04,1,00:00:39.227,0,39,Argentina,Nicolás Hernán Otamendi,Cristian Gabriel Romero,22.318827,1.6740316,Completado
+4fd86774-8f37-4ea2-b562-b1a43c5adedf,1,00:00:43.285,0,43,Argentina,Cristian Gabriel Romero,Nicolás Hernán Otamendi,22.58008,-1.4865518,Completado
+4a4fd288-9139-4987-9c2a-3ab0e1793310,1,00:00:45.601,0,45,Argentina,Nicolás Hernán Otamendi,Nicolás Alejandro Tagliafico,21.953815,-1.3457046,Completado
+bdf6b02c-1c04-4777-9617-bf73ececbf6c,1,00:00:47.599,0,47,Argentina,Nicolás Alejandro Tagliafico,Alexis Mac Allister,16.487875,0.10328964,Completado
+1af94a8d-cb50-4d93-96e1-19fa1ae154fb,1,00:01:31.390,1,31,France,Theo Bernard François Hernández,Adrien Rabiot,8.5,1.1334584,Completado
+b10bc0c0-2bb9-4d19-80a7-d8e1c9d25a0d,1,00:01:33.075,1,33,France,Adrien Rabiot,Theo Bernard François Hernández,8.79659,-1.4224685,Completado
+674ae8c2-5380-48b1-99d9-baa5cefe09da,1,00:01:55.993,1,55,France,Theo Bernard François Hernández,Raphaël Varane,34.879364,2.0831857,Completado
+ccc02e52-3777-4ac4-ac16-f76ab2cd40df,1,00:02:02.182,2,2,France,Raphaël Varane,Jules Koundé,23.563744,1.9126784,Completado
+9ed1439b-d3bd-40c8-aeec-7405c3c9ce83,1,00:02:04.612,2,4,France,Jules Koundé,Ousmane Dembélé,16.595482,0.44208762,Completado
+452f11cf-7bf4-43fe-9d54-8595fb5a09b0,1,00:02:14.784,2,14,Argentina,Alexis Mac Allister,Lionel Andrés Messi Cuccittini,19.090574,1.0133075,Completado
+1552304a-f3c0-42bf-b7ff-d7b0173d7488,1,00:02:16.985,2,16,Argentina,Lionel Andrés Messi Cuccittini,Ángel Fabián Di María Hernández,47.816315,-0.5949631,Completado
+adbbc09c-62bf-40f8-99d3-e445112abbfd,1,00:02:25.896,2,25,Argentina,Rodrigo Javier De Paul,Lionel Andrés Messi Cuccittini,8.575546,0.55241895,Completado
+f9405131-3f16-47bc-ab94-082f200f760,1,00:02:27.185,2,27,Argentina,Lionel Andrés Messi Cuccittini,Rodrigo Javier De Paul,7.937884,-1.9044985,Completado
+25548b02-1dca-44b0-a1a5-d97f63a69fbd,1,00:02:28.608,2,28,Argentina,Rodrigo Javier De Paul,Julián Álvarez,15.1221695,-0.3510309,Pass Offside
+20196560-2d9e-4826-a667-e4b223233dcc,1,00:03:01.468,3,1,France,Hugo Lloris,Olivier Giroud,63.788715,0.40612686,Completado
+5288bf75-ec36-47bc-a8e4-9568b39ddb0c,1,00:03:04.933,3,4,France,Olivier Giroud,Antoine Griezmann,8.127115,0.32564157,Completado
