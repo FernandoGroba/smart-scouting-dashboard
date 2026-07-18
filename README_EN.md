@@ -92,7 +92,7 @@ The `scouting.pbix` file contains an interactive dashboard with:
 ## Author
 
 **Fernando Groba**
-Programming Technician / TV Production and Direction Technician
+Programming Technician / TV Production Technician
 
 Analysis completed as part of **Football Data Analysis and Scouting** training.
 
