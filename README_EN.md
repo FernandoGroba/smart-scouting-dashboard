@@ -76,11 +76,15 @@ The `scouting.pbix` file contains an interactive dashboard with:
 - Filters by team, position, and metrics
 - Performance distribution charts
 
-> Dashboard screenshots will be added soon in `dashboards/screenshots/`.
+### Dashboard Screenshots
+
+![Scouting Dashboard 01](dashboards/screenshots/Scouting_01.png)
+![Scouting Dashboard 02](dashboards/screenshots/Scouting_02.png)
+![Scouting Dashboard 03](dashboards/screenshots/Scouting_03.png)
+![Scouting Dashboard 04](dashboards/screenshots/Scouting_04.png)
 
 ## Next Steps
 
-- [ ] Add Power BI dashboard screenshots
 - [ ] Incorporate European league data
 - [ ] Add advanced metrics (xA, xG if available)
 - [ ] Create interactive version with Streamlit
